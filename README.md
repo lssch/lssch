@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lssch
-- 👀 I’m interested in robotics, ai, I4.0
+- 👀 I’m interested in robotics, ai
 - 🌱 I’m currently learning ROS and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
